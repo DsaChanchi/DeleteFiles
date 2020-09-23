@@ -8,3 +8,6 @@
 '/ c' sends the command (next) to execute.
 'del' is the delete command
 ‘@File’ will apply the command to all files regardless of their name and extension.
+
+
+Type Windows + ‘R’ and execute «shell:startup», copy the file and it will start every time the computer boots
